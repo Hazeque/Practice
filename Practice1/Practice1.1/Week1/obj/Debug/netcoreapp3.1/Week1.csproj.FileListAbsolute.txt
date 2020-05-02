@@ -1,0 +1,22 @@
+C:\Users\Hazeq\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.exe
+C:\Users\Hazeq\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.deps.json
+C:\Users\Hazeq\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.runtimeconfig.json
+C:\Users\Hazeq\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.runtimeconfig.dev.json
+C:\Users\Hazeq\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.dll
+C:\Users\Hazeq\source\repos\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.pdb
+C:\Users\Hazeq\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.csprojAssemblyReference.cache
+C:\Users\Hazeq\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.AssemblyInfoInputs.cache
+C:\Users\Hazeq\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.AssemblyInfo.cs
+C:\Users\Hazeq\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.dll
+C:\Users\Hazeq\source\repos\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.pdb
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.deps.json
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.runtimeconfig.json
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.runtimeconfig.dev.json
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.dll
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\bin\Debug\netcoreapp3.1\Week1.pdb
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.csprojAssemblyReference.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.AssemblyInfoInputs.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.AssemblyInfo.cs
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.dll
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Week1\Week1\obj\Debug\netcoreapp3.1\Week1.pdb

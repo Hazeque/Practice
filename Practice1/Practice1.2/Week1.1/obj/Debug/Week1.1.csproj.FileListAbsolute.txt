@@ -1,0 +1,9 @@
+C:\Users\Hazeq\source\repos\Week1.1\Week1.1\obj\Debug\Week1.1.csprojAssemblyReference.cache
+C:\Users\Hazeq\source\repos\Week1.1\Week1.1\obj\Debug\Week1._1.Form1.resources
+C:\Users\Hazeq\source\repos\Week1.1\Week1.1\obj\Debug\Week1._1.Properties.Resources.resources
+C:\Users\Hazeq\source\repos\Week1.1\Week1.1\obj\Debug\Week1.1.csproj.GenerateResource.cache
+C:\Users\Hazeq\source\repos\Week1.1\Week1.1\bin\Debug\Week1.1.exe.config
+C:\Users\Hazeq\source\repos\Week1.1\Week1.1\bin\Debug\Week1.1.exe
+C:\Users\Hazeq\source\repos\Week1.1\Week1.1\bin\Debug\Week1.1.pdb
+C:\Users\Hazeq\source\repos\Week1.1\Week1.1\obj\Debug\Week1.1.exe
+C:\Users\Hazeq\source\repos\Week1.1\Week1.1\obj\Debug\Week1.1.pdb
