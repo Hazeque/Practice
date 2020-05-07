@@ -28,6 +28,7 @@ namespace Practice_3._3
             double h = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите x");
             double x = Convert.ToDouble(Console.ReadLine());
+            double y;
             if (x > a)
             {
                 if (x + a == 0)
@@ -35,7 +36,7 @@ namespace Practice_3._3
                 else
                     while (x < b)
                     {
-                        Console.WriteLine(function(x, a));
+                        Console.WriteLine(function(x, a, out y));
                         x = x + h;
                     }
             }
@@ -43,7 +44,7 @@ namespace Practice_3._3
             {
                 while (x < b)
                 {
-                    Console.WriteLine(function(x, a));
+                    Console.WriteLine(function(x, a, out y));
                     x = x + h;
                 }
             }
