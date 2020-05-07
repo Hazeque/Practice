@@ -1,0 +1,8 @@
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 3\Practice 3.3 WF\Practice 3.3 WF\bin\Debug\Practice 3.3 WF.exe.config
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 3\Practice 3.3 WF\Practice 3.3 WF\bin\Debug\Practice 3.3 WF.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 3\Practice 3.3 WF\Practice 3.3 WF\bin\Debug\Practice 3.3 WF.pdb
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 3\Practice 3.3 WF\Practice 3.3 WF\obj\Debug\Practice_3._3_WF.Form1.resources
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 3\Practice 3.3 WF\Practice 3.3 WF\obj\Debug\Practice_3._3_WF.Properties.Resources.resources
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 3\Practice 3.3 WF\Practice 3.3 WF\obj\Debug\Practice 3.3 WF.csproj.GenerateResource.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 3\Practice 3.3 WF\Practice 3.3 WF\obj\Debug\Practice 3.3 WF.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 3\Practice 3.3 WF\Practice 3.3 WF\obj\Debug\Practice 3.3 WF.pdb
