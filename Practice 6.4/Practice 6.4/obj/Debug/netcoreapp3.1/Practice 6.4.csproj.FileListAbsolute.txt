@@ -1,0 +1,11 @@
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\bin\Debug\netcoreapp3.1\Practice 6.4.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\bin\Debug\netcoreapp3.1\Practice 6.4.deps.json
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\bin\Debug\netcoreapp3.1\Practice 6.4.runtimeconfig.json
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\bin\Debug\netcoreapp3.1\Practice 6.4.runtimeconfig.dev.json
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\bin\Debug\netcoreapp3.1\Practice 6.4.dll
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\bin\Debug\netcoreapp3.1\Practice 6.4.pdb
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\obj\Debug\netcoreapp3.1\Practice 6.4.csprojAssemblyReference.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\obj\Debug\netcoreapp3.1\Practice 6.4.AssemblyInfoInputs.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\obj\Debug\netcoreapp3.1\Practice 6.4.AssemblyInfo.cs
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\obj\Debug\netcoreapp3.1\Practice 6.4.dll
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 6\Practice 6.4\Practice 6.4\obj\Debug\netcoreapp3.1\Practice 6.4.pdb
