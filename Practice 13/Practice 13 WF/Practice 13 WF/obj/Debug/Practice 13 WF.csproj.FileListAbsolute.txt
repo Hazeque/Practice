@@ -1,0 +1,10 @@
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\bin\Debug\Practice 13 WF.exe.config
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\bin\Debug\Practice 13 WF.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\bin\Debug\Practice 13 WF.pdb
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\obj\Debug\Practice 13 WF.csprojAssemblyReference.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\obj\Debug\Practice_13_WF.Form1.resources
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\obj\Debug\Practice_13_WF.Properties.Resources.resources
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\obj\Debug\Practice 13 WF.csproj.GenerateResource.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\obj\Debug\Practice 13 WF.csproj.CoreCompileInputs.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\obj\Debug\Practice 13 WF.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13 WF\Practice 13 WF\obj\Debug\Practice 13 WF.pdb

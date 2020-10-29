@@ -1,0 +1,13 @@
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\obj\Debug\netcoreapp3.1\Practice 13.csprojAssemblyReference.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\obj\Debug\netcoreapp3.1\Practice 13.AssemblyInfoInputs.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\obj\Debug\netcoreapp3.1\Practice 13.AssemblyInfo.cs
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\obj\Debug\netcoreapp3.1\Practice 13.csproj.CoreCompileInputs.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\bin\Debug\netcoreapp3.1\Practice 13.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\bin\Debug\netcoreapp3.1\Practice 13.deps.json
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\bin\Debug\netcoreapp3.1\Practice 13.runtimeconfig.json
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\bin\Debug\netcoreapp3.1\Practice 13.runtimeconfig.dev.json
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\bin\Debug\netcoreapp3.1\Practice 13.dll
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\bin\Debug\netcoreapp3.1\Practice 13.pdb
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\obj\Debug\netcoreapp3.1\Practice 13.dll
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\obj\Debug\netcoreapp3.1\Practice 13.pdb
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 13\Practice 13\Practice 13\obj\Debug\netcoreapp3.1\Practice 13.genruntimeconfig.cache
