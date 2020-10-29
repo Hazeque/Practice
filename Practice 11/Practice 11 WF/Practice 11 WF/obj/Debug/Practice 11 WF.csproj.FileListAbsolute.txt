@@ -1,0 +1,9 @@
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 11\Practice 11 WF\Practice 11 WF\bin\Debug\Practice 11 WF.exe.config
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 11\Practice 11 WF\Practice 11 WF\bin\Debug\Practice 11 WF.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 11\Practice 11 WF\Practice 11 WF\bin\Debug\Practice 11 WF.pdb
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 11\Practice 11 WF\Practice 11 WF\obj\Debug\Practice 11 WF.csprojAssemblyReference.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 11\Practice 11 WF\Practice 11 WF\obj\Debug\Practice_11_WF.Form1.resources
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 11\Practice 11 WF\Practice 11 WF\obj\Debug\Practice_11_WF.Properties.Resources.resources
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 11\Practice 11 WF\Practice 11 WF\obj\Debug\Practice 11 WF.csproj.GenerateResource.cache
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 11\Practice 11 WF\Practice 11 WF\obj\Debug\Practice 11 WF.exe
+C:\Users\Hazeq\Desktop\Практика от 02.05.2020\Practice 11\Practice 11 WF\Practice 11 WF\obj\Debug\Practice 11 WF.pdb
